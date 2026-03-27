@@ -3,15 +3,16 @@
 
 ### AI/ML Enthusiast | Web Developer | Problem Solver
 
-I am a B.Tech (Hons) student specializing in **Artificial Intelligence & Machine Learning** with a passion for building intelligent systems and responsive web applications. [cite_start]Currently, I'm honing my skills as an **AI Intern at Infosys Springboard**.
+I am a B.Tech (Hons) student specializing in **Artificial Intelligence & Machine Learning** with a passion for building intelligent systems and responsive web applications.Currently, I'm honing my skills as an **AI Intern at Infosys Springboard**.
 
 -----
 
 ## 🚀 Quick Highlights
 
-### 🏆 **Smart India Hackathon 2025 Finalist:** Secured a **Top 5 position** out of 78,000+ teams for my problem statement.
-  🤖 **AI Innovation:** Developed **CliniScan AI**, a multi-label disease classifier for chest X-ray analysis.
-  💻 **Full-Stack Experience:** Completed multiple internships in both Web Development and AI.
+  * 🏆 **Smart India Hackathon 2025 Finalist:** Secured a **Top 5 position** out of 78,000+ teams for my problem statement.
+  * 🤖 **AI Innovation:** Developed **CliniScan AI**, a multi-label disease classifier for chest X-ray analysis.
+  * 💻 **Full-Stack Experience:** Completed multiple internships in both Web Development and AI.
+
 
 -----
 
